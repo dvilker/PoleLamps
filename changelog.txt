@@ -1,4 +1,6 @@
-Version: 0.1.1 - Release
-Date: 2022-11-04
-  Features:
-    - fork from Optera's LightedPolesPlus mod and deep refactor
+---------------------------------------------------------------------------------------------------
+Version: 2.0.2
+Date: 15.11.2024
+  Bugfixes:
+    - Disable lamp selection
+---------------------------------------------------------------------------------------------------

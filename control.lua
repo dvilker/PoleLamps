@@ -71,16 +71,15 @@ local function updateAllPoles()
     end
 end
 
---script.on_load(function()
---    registerEvents()
---end)
---
---script.on_init(function()
---    registerEvents()
---end)
+script.on_load(function()
+    registerEvents()
+end)
+
+script.on_init(function()
+    registerEvents()
+end)
 
 script.on_configuration_changed(function()
     updateAllPoles()
 end)
 
-registerEvents()
